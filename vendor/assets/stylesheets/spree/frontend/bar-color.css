@@ -1,0 +1,18 @@
+#spree-header{
+	background: #a22a2a;
+}
+
+#home-page{
+	color: white;
+	background: #404040;
+}
+
+.btn-success{
+	color: #333333;
+	background-color: #333333;
+}
+
+.panel-footer{
+	background: #a22a2a;
+	color: black;
+}
